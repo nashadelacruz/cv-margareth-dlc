@@ -116,7 +116,7 @@ function App() {
 
                 {/* Imagen */}
                 <img
-                  src="/ruth-dlc.webp"
+                  src="ruth-dlc.webp"
                   alt="Mi foto"
                   className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
                 />
