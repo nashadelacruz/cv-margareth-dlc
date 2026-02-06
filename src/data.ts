@@ -29,10 +29,10 @@ export const experience = [
         period: "2025",
         description: "Docencia activa enfocada en el aprendizaje significativo y el desarrollo integral del estudiante.",
         images: [
-            "/evidence/cv/1.png",
-            "/evidence/cv/2.png",
-            "/evidence/cv/3.png",
-            "/evidence/cv/4.png"
+            "evidence/cv/1.png",
+            "evidence/cv/2.png",
+            "evidence/cv/3.png",
+            "evidence/cv/4.png"
         ]
     },
     {
@@ -41,9 +41,9 @@ export const experience = [
         period: "2024",
         description: "Implementación de estrategias pedagógicas innovadoras en educación privada.",
         images: [
-            "/evidence/sk/sk1.png",
-            "/evidence/sk/sk2.png",
-            "/evidence/sk/sk3.png"
+            "evidence/sk/sk1.png",
+            "evidence/sk/sk2.png",
+            "evidence/sk/sk3.png"
         ]
     },
     {
@@ -52,10 +52,10 @@ export const experience = [
         period: "2024",
         description: "Experiencia versátil en soporte educativo y manejo de grupos en diferentes contextos.",
         images: [
-            "/evidence/others/1.png",
-            "/evidence/others/2.png",
-            "/evidence/others/3.png",
-            "/evidence/others/4.png"
+            "evidence/others/1.png",
+            "evidence/others/2.png",
+            "evidence/others/3.png",
+            "evidence/others/4.png"
         ]
     },
     {
@@ -78,11 +78,11 @@ export const skills = [
 export const documents = [
     { title: "Título de Licenciatura (UNSCH)", file: "/docs/titulo_licenciatura.pdf", type: "Grado Académico" },
     { title: "Certificado Ofimática", file: "/docs/certificado_ofimatica.pdf", type: "Certificación" },
-    { title: "Contrato de trabajo en César Vallejo", file: "/docs/contrato_cesarvallejo.pdf", type: "Laboral" },
+    { title: "Contrato de trabajo en César Vallejo", file: "docs/contrato_cesarvallejo.pdf", type: "Laboral" },
     { title: "Constancia Laboral Smart Kids", file: "/docs/constancia_smartkids.pdf", type: "Laboral" },
     {
         title: "Reconocimiento de la Municipalidad de Quinua por enseñanza en el Programa Vacacional",
-        file: "/docs/resolucion_alcaldia_quinua_2023.pdf",
+        file: "docs/resolucion_alcaldia_quinua_2023.pdf",
         type: "Reconocimiento Oficial"
     },
 ];

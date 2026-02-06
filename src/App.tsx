@@ -326,7 +326,7 @@ function App() {
                 Transparencia y profesionalismo. Acceso directo a certificaciones oficiales, diplomas y constancias que respaldan mi perfil.
               </p>
             </div>
-            <a href="/docs/cv_completo.pdf" className="px-6 py-3 bg-brand-secondary hover:bg-pink-600 rounded-lg font-bold transition-all flex items-center gap-2 shadow-lg shadow-pink-500/20 hover:shadow-pink-500/40 transform hover:-translate-y-0.5">
+            <a href="docs/cv_completo.pdf" className="px-6 py-3 bg-brand-secondary hover:bg-pink-600 rounded-lg font-bold transition-all flex items-center gap-2 shadow-lg shadow-pink-500/20 hover:shadow-pink-500/40 transform hover:-translate-y-0.5">
               <Download size={18} /> Descargar CV Completo
             </a>
           </div>
