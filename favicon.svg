@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 64 64" fill="none">
+  <!-- Cabeza -->
+  <circle cx="32" cy="20" r="10" stroke="#2D3E50" stroke-width="2" fill="#F4C2C2"/>
+  
+  <!-- Cabello -->
+  <path d="M22 20c0-6 5-10 10-10s10 4 10 10v6H22v-6z" fill="#2D3E50"/>
+  
+  <!-- Gafas -->
+  <circle cx="28" cy="20" r="3" stroke="#2D3E50" stroke-width="1.5" fill="none"/>
+  <circle cx="36" cy="20" r="3" stroke="#2D3E50" stroke-width="1.5" fill="none"/>
+  <line x1="31" y1="20" x2="33" y2="20" stroke="#2D3E50" stroke-width="1.5"/>
+  
+  <!-- Cuerpo con camisa -->
+  <path d="M20 36h24v16H20z" fill="#4A90E2" stroke="#2D3E50" stroke-width="2"/>
+  <path d="M32 36v16" stroke="#2D3E50" stroke-width="2"/>
+  <path d="M26 36l6 6 6-6" stroke="#2D3E50" stroke-width="2" fill="none"/>
+  
+  <!-- Libro al costado -->
+  <rect x="44" y="30" width="12" height="16" fill="#F9E79F" stroke="#2D3E50" stroke-width="2"/>
+  <line x1="50" y1="30" x2="50" y2="46" stroke="#2D3E50" stroke-width="1.5"/>
+</svg>
